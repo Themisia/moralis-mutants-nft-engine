@@ -123,11 +123,11 @@ const height = 1000;
 // description for NFT in metadata file
 const description = "Moralis Mutants - Survivors of Rekt City";
 // base url in case no unique metadata file i.e IPFS
-const baseImageUri = "YOUR_MORALIS_SERVER_URL";
+const baseImageUri = "https://dhxavgbht9df.usemoralis.com:2053/server";
 // id for edition to start from
 const startEditionFrom = 1;
 // amount of NFTs to generate in edition
-const editionSize = 10;
+const editionSize = 100;
 // prefix to add to edition dna ids (to distinguish dna counts from different generation processes for the same collection)
 const editionDnaPrefix = 0;
 
